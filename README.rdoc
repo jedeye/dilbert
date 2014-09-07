@@ -3,3 +3,6 @@ A python script to grab all the Dilbert comics for the year the user enters when
 Note that the script will create enumerated .gifs, so 1.gif, 2.gif, 3.gif etc.
 
 It can take a while to get all the comics for that year, so please be patient.
+
+To use in Linux, simply type "python dilbert.py" at the command line interface, making sure that you have installed pyhton.
+
